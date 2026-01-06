@@ -35,13 +35,13 @@ Most of the web's truly raw data is "dirty"—it’s buried in nested forum thre
 noctis/
 ├── api/              # FastAPI main, static for html/css/js/favicon
 ├── crawler/          # Async spiders & Proxy rotators
-├── db/               # Database
+├── db/               # Database handlers
 ├── dumps/            # Local JSON dumps
 ├── elasticsearch     # Elasticsearch bat shortcut
 ├── search/           # Elasticsearch mapping & CQS scoring
 ├── normalizer/       # Text normalizer
 ├── requirements.txt  # Requirements pip
-└── noctis.db         # Minimalist Search Interface (Dark Mode by default)
+└── noctis.db         # Database
 ```
 
 ## 📊 Content Quality Score (CQS)
