@@ -43,7 +43,9 @@ noctis/
 ## 📊 Content Quality Score (CQS)
 
 Noctis uses a proprietary ranking formula:
+
 <img width="451" height="74" alt="image" src="https://github.com/user-attachments/assets/90280566-478b-44ec-a3e5-37c7d1c8384d" />
+
 This ensures that a 20-page forum thread with high-quality technical discussion ranks higher than a 500-word SEO-optimized blog post.
 
 ## 🛡 Ethical Use & Disclaimer
