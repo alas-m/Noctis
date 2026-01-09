@@ -4,7 +4,8 @@
 
 **Noctis** is a specialized search engine built to navigate the "blind spots" of modern search algorithms. While mainstream engines prioritize ad-revenue and SEO authority, Noctis focuses on information density, raw technical data, and human-to-human communication found in forums, pastes, and logs.
 
-![photo_2026-01-09_05-00-48](https://github.com/user-attachments/assets/01e64561-95db-42f6-b97d-c95ebd5d334e)
+![IMG_1654](https://github.com/user-attachments/assets/9ae83744-d580-4dca-a556-af61a599610d)
+
 
 
 ---
