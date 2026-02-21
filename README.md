@@ -36,16 +36,20 @@ Most of the web's truly raw data is "dirty"—it’s buried in nested forum thre
 ## ⚙️ Project Structure
 
 ```text
-noctis/
-├── api/              # FastAPI main, static for html/css/js/favicon
-├── crawler/          # Async spiders & Proxy rotators
-├── db/               # Database handlers
-├── dumps/            # Local JSON dumps
-├── elasticsearch     # Elasticsearch bat shortcut
-├── search/           # Elasticsearch mapping & CQS scoring
-├── normalizer/       # Text normalizer
-├── requirements.txt  # Requirements pip
-└── noctis.db         # Database
+Noctis/
+├── api/                   # Application core and routing logic
+├── crawler/               # Automated data acquisition modules
+├── custom_dumps/          # Local data repository
+├── db/                    # Persistence layer and data schemas
+├── normalizer/            # Data standardization and pattern matching
+├── search/                # Retrieval engine and relevance logic
+├── static/                # UI presentation assets (CSS/JS)
+├── templates/             # Frontend structural components
+├── utils/                 # Modular helper services and external integrations
+├── config.py              # Environment and system parameters
+├── requirements.txt       # System dependencies
+├── run.py                 # Application entry point
+└── noctis.db              # Encapsulated relational database
 ```
 
 ## 📊 Content Quality Score (CQS)
